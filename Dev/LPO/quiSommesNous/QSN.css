@@ -177,7 +177,7 @@ header {
   flex-direction: column;
   text-align: center;
   color: var(--Secondary);
-  background-image: url(/Images/LPO/fondHeader.png);
+  background-image: url(imagesQSN/fondHeader.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
