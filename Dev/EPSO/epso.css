@@ -207,7 +207,7 @@ header {
   width: 100%;
   height: 380px;
   text-align: center;
-  background-image: url(/Images/Epso/happyEpso.jpeg);
+  background-image: url(imageEPSO/happyEpso.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 70%;
@@ -261,7 +261,7 @@ header .background p {
   align-items: center;
   width: 100%;
   height: 1000px;
-  background-image: url(/Images/Epso/Epso.jpg);
+  background-image: url(imageEPSO/Epso.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
